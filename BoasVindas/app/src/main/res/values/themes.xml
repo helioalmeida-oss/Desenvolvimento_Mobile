@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.BoasVindas" parent="Theme.AppCompat.DayNight.DarkActionBar" />
+</resources>
