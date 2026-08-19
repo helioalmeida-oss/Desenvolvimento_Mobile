@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Boas Vindos</string>
+
+    <string name="titulo">Boas Vindos</string>
+    <string name="instrucao">Digite Seu Nome</string>
+    <string name="hint_nome">Seu nome</string>
+    <string name="botao_ok">OK</string>
+
+    <!-- %1$s e substituido pelo nome digitado pelo usuario. -->
+    <string name="saudacao_formato">Olá %1$s!</string>
+    <string name="saudacao_sem_nome">Digite seu nome e toque em OK.</string>
+</resources>
