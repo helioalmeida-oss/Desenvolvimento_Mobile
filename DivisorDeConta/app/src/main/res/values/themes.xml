@@ -1,0 +1,4 @@
+<resources>
+    <!-- A tela e construida com Jetpack Compose, entao o tema do sistema basta. -->
+    <style name="Theme.DivisorDeConta" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
